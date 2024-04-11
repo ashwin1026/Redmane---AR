@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "firstName": "Emily",
+      "middleName": "Grace",
+      "lastName": "Johnson",
+      "suffix": "Ms",
+      "dateOfBirth": "07231985",
+      "socialSecurityNumber": "333-22-5566",
+      "aliases": "Lizzie"
+    },
+    {
+      "firstName": "Michael",
+      "middleName": "James",
+      "lastName": "Brown",
+      "suffix": "Mr",
+      "dateOfBirth": "11221970",
+      "socialSecurityNumber": "444-33-6688",
+      "aliases": "Mikey"
+    },
+    {
+      "firstName": "Sophia",
+      "middleName": "Maria",
+      "lastName": "Martinez",
+      "suffix": "Ms",
+      "dateOfBirth": "03051992",
+      "socialSecurityNumber": "777-66-9988",
+      "aliases": "Sophie"
+    },
+    {
+      "firstName": "Daniel",
+      "middleName": "Alexander",
+      "lastName": "Williams",
+      "suffix": "Dr",
+      "dateOfBirth": "04121980",
+      "socialSecurityNumber": "222-11-4455",
+      "aliases": "Dan"
+    },
+    {
+      "firstName": "Olivia",
+      "middleName": "Nicole",
+      "lastName": "Anderson",
+      "suffix": "Miss",
+      "dateOfBirth": "08281998",
+      "socialSecurityNumber": "666-55-7799",
+      "aliases": "Liv"
+    }
+  ]
+}

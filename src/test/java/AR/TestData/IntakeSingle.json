@@ -1,0 +1,17 @@
+{
+  "statementsForAllegations": "Neglect",
+  "reporterWorries": "test worry",
+  "lawEnforcement": "No safety issues",
+  "additionalInfo": "This is additional Information.",
+  "familySupport": "Other",
+  "otherFamilySupport": "This is test",
+  "collateralName": "As Parent",
+  "relationshipToFamily": "Landlord",
+  "DuplicateReferral": "Yes", 
+   "Date": "2022-09-15",
+  "IntakeRef": "xtz",
+  "MandatedReport": "Other",
+  "Reporter": "Someone",
+  "PrimaryRelationship": "Mother",
+  "SecondaryRelationship": "Wife"
+}

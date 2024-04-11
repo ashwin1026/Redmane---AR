@@ -1,0 +1,154 @@
+{
+  "records": [
+    {
+      "Familyname": "John Smith",
+      "Familyaddress": "New York, NY, USA",
+      "Startdate": "15-07-2025",
+      "Country": "New York (Manhattan)",
+      "Extensioncomment": "Lorem ipsum",
+      "CaseConnectionconnectdetails": "Lorem ipsum",
+      "Investigationclosure": "Open",
+      "Closuremeeting": "Lorem ipsum"
+    },
+    {
+      "Familyname": "Alice Johnson",
+      "Familyaddress": "Los Angeles, CA, USA",
+      "Startdate": "30-09-2024",
+      "Country": "California (Los Angeles)",
+      "Extensioncomment": "Dolor sit amet",
+      "CaseConnectionconnectdetails": "Dolor sit amet",
+      "Investigationclosure": "Closed",
+      "Closuremeeting": "Dolor sit amet"
+    },
+    {
+      "Familyname": "Michael Brown",
+      "Familyaddress": "Houston, TX, USA",
+      "Startdate": "22-11-2023",
+      "Country": "Texas (Houston)",
+      "Extensioncomment": "Consectetur adipiscing elit",
+      "CaseConnectionconnectdetails": "Consectetur adipiscing elit",
+      "Investigationclosure": "Open",
+      "Closuremeeting": "Consectetur adipiscing elit"
+    },
+    {
+      "Familyname": "Emily Davis",
+      "Familyaddress": "Miami, FL, USA",
+      "Startdate": "10-03-2022",
+      "Country": "Florida (Miami)",
+      "Extensioncomment": "Sed do eiusmod",
+      "CaseConnectionconnectdetails": "Sed do eiusmod",
+      "Investigationclosure": "Closed",
+      "Closuremeeting": "Sed do eiusmod"
+    },
+    {
+      "Familyname": "Robert Johnson",
+      "Familyaddress": "Seattle, WA, USA",
+      "Startdate": "05-05-2021",
+      "Country": "Washington (Seattle)",
+      "Extensioncomment": "Tempor incididunt ut labore",
+      "CaseConnectionconnectdetails": "Tempor incididunt ut labore",
+      "Investigationclosure": "Open",
+      "Closuremeeting": "Tempor incididunt ut labore"
+    },
+    {
+      "Familyname": "Jessica Williams",
+      "Familyaddress": "Chicago, IL, USA",
+      "Startdate": "12-08-2020",
+      "Country": "Illinois (Chicago)",
+      "Extensioncomment": "Dolore magna aliqua",
+      "CaseConnectionconnectdetails": "Dolore magna aliqua",
+      "Investigationclosure": "Closed",
+      "Closuremeeting": "Dolore magna aliqua"
+    },
+    {
+      "Familyname": "William Garcia",
+      "Familyaddress": "San Francisco, CA, USA",
+      "Startdate": "01-01-2019",
+      "Country": "California (San Francisco)",
+      "Extensioncomment": "Ut enim ad minim veniam",
+      "CaseConnectionconnectdetails": "Ut enim ad minim veniam",
+      "Investigationclosure": "Open",
+      "Closuremeeting": "Ut enim ad minim veniam"
+    },
+    {
+      "Familyname": "Amanda Martinez",
+      "Familyaddress": "Denver, CO, USA",
+      "Startdate": "18-04-2018",
+      "Country": "Colorado (Denver)",
+      "Extensioncomment": "Quis nostrud exercitation",
+      "CaseConnectionconnectdetails": "Quis nostrud exercitation",
+      "Investigationclosure": "Closed",
+      "Closuremeeting": "Quis nostrud exercitation"
+    },
+    {
+      "Familyname": "David Perez",
+      "Familyaddress": "Boston, MA, USA",
+      "Startdate": "29-06-2017",
+      "Country": "Massachusetts (Boston)",
+      "Extensioncomment": "Sunt in culpa qui",
+      "CaseConnectionconnectdetails": "Sunt in culpa qui",
+      "Investigationclosure": "Open",
+      "Closuremeeting": "Sunt in culpa qui"
+    },
+    {
+      "Familyname": "Sarah Taylor",
+      "Familyaddress": "Portland, OR, USA",
+      "Startdate": "07-09-2016",
+      "Country": "Oregon (Portland)",
+      "Extensioncomment": "Deserunt mollit anim",
+      "CaseConnectionconnectdetails": "Deserunt mollit anim",
+      "Investigationclosure": "Closed",
+      "Closuremeeting": "Deserunt mollit anim"
+    },
+    {
+      "Familyname": "James Wilson",
+      "Familyaddress": "Atlanta, GA, USA",
+      "Startdate": "25-11-2015",
+      "Country": "Georgia (Atlanta)",
+      "Extensioncomment": "Laboris nisi ut aliquip",
+      "CaseConnectionconnectdetails": "Laboris nisi ut aliquip",
+      "Investigationclosure": "Open",
+      "Closuremeeting": "Laboris nisi ut aliquip"
+    },
+    {
+      "Familyname": "Olivia Hernandez",
+      "Familyaddress": "Dallas, TX, USA",
+      "Startdate": "14-02-2014",
+      "Country": "Texas (Dallas)",
+      "Extensioncomment": "Ex commodo consequat",
+      "CaseConnectionconnectdetails": "Ex commodo consequat",
+      "Investigationclosure": "Closed",
+      "Closuremeeting": "Ex commodo consequat"
+    },
+    {
+      "Familyname": "Daniel Lopez",
+      "Familyaddress": "Las Vegas, NV, USA",
+      "Startdate": "03-04-2013",
+      "Country": "Nevada (Las Vegas)",
+      "Extensioncomment": "Irure dolor in reprehenderit",
+      "CaseConnectionconnectdetails": "Irure dolor in reprehenderit",
+      "Investigationclosure": "Open",
+      "Closuremeeting": "Irure dolor in reprehenderit"
+    },
+    {
+      "Familyname": "Sophia Adams",
+      "Familyaddress": "Phoenix, AZ, USA",
+      "Startdate": "20-06-2012",
+      "Country": "Arizona (Phoenix)",
+      "Extensioncomment": "Enim ad minim veniam",
+      "CaseConnectionconnectdetails": "Enim ad minim veniam",
+      "Investigationclosure": "Closed",
+      "Closuremeeting": "Enim ad minim veniam"
+    },
+    {
+      "Familyname": "Ethan Thomas",
+      "Familyaddress": "Philadelphia, PA, USA",
+      "Startdate": "09-08-2011",
+      "Country": "Pennsylvania (Philadelphia)",
+      "Extensioncomment": "Quis nostrud exercitation",
+      "CaseConnectionconnectdetails": "Quis nostrud exercitation",
+      "Investigationclosure": "Open",
+      "Closuremeeting": "Quis nostrud exercitation"
+    }
+  ]
+}

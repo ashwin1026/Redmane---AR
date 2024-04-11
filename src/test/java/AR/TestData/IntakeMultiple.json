@@ -1,0 +1,40 @@
+{
+  "records": [
+    {
+      "dateTime": "20-03-20240310",
+      "referralSource": "Phone",
+      "reporterInput": "AS Test",
+      "primaryRelationship": "Legal",
+      "secondaryRelationship": "Principal",
+      "familyName": "FamilyName",
+      "familyAddress": "Family Address",
+      "role": "Alleged Offender",
+      "locatingInformation": "This is test information",
+      "dateOfIncident": "20-03-2024",
+      "countyOfIncident": "Ashley (Hamburg)",
+      "statementsForAllegations": "Neglect",
+      "reporterWorries": "new worry 1",
+      "lawEnforcement": "No",
+      "safetyIssue": "Criminal History",
+      "additionalInfo": "Additional details provided",
+      "familySupport": "Other",
+      "otherFamilySupport": "New support method",
+      "childDeath": "Child death as a result of neglect",
+      "mentalInjury": "Acts, statements, or threats adversely",
+      "neglect1": "Action or inaction resulting in failure to thrive",
+      "neglect2": "Failure to protect",
+      "neglect3": "Medical neglect: The alleged",
+      "screeningOverride": "Screen out, despite maltreatment",
+      "rationale": "This is test message",
+      "collateralName": "Grandparent",
+      "relationshipToFamily": "Teacher",
+      "DuplicateReferral": "No",
+      "Date": "2022-09-16",
+      "IntakeRef": "abc",
+      "MandatedReport": "Therapist",
+      "Reporter": "Anonymous",
+      "PrimaryRelationship": "Father",
+      "SecondaryRelationship": "Husband"
+    }
+  ]
+}
